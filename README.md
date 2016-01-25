@@ -10,4 +10,5 @@ _Text taken from Wikipdia pages [Major-General's Song](https://en.wikipedia.org/
 ---
 I adapted this problem to a function that would take any two phrase selections. In addition, you can create a phrase of any length. Possible ideas for the future:
 * make `n` an optional argument (default to 3)
-* make an optional argument for the length of the words
+* make an optional argument for the length of the words<br>
+Thank you to [@thisismetis](https://github.com/thisismetis) for original problem.
