@@ -1,0 +1,17 @@
+f.@bar.com
+this is not an email id
+admin#codeeval.com
+good123@good.com
+good_123@good.com
+this.kind.of123@gmail.co.uk
+fuckin#wei.rd@bad.com
+ba0d..email@emily-hk.com
+bla@gmail.co.uk
+blah@gm.ai.co.uk
+bla@emily-hk.co.uk
+blah@em.co.uk
+emily@emily-hk.co.uk
+emily@emily.hk.co.uk
+this.kind.of@example.com
+# below line should be false!!1
+blah@emily_hk.com 
