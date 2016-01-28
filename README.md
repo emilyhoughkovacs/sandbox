@@ -11,7 +11,9 @@ I adapted this problem to a function that would take any two phrase selections. 
 * make `n` an optional argument (default to 3)
 * make an optional argument for the length of the words<br>
 Thank you to [@thisismetis](https://github.com/thisismetis) for original problem.
+
 ---
+
 ### email validation
 files:<br>
 `email_validation.py`<br>
