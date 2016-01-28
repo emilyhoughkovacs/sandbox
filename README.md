@@ -17,7 +17,7 @@ Thank you to [@thisismetis](https://github.com/thisismetis) for original problem
 files:<br>
 `email_validation.py`<br>
 `emails.txt`<br>
-From (CodeEval challenge 35)[https://www.codeeval.com/open_challenges/35/]
-(Email Syntax)[https://en.wikipedia.org/wiki/Email_address#Syntax]
-(Hostname Syntax)[https://en.wikipedia.org/wiki/Hostname#Restrictions_on_valid_host_names]
+From [CodeEval challenge 35](https://www.codeeval.com/open_challenges/35/)<br>
+[Email Syntax](https://en.wikipedia.org/wiki/Email_address#Syntax)<br>
+[Hostname Syntax](https://en.wikipedia.org/wiki/Hostname#Restrictions_on_valid_host_names)<br>
 Works for basic cases, but needs improvement! (quotes, parens, strange hostnames, etc)
